@@ -1,2 +1,2 @@
-# CSN-463-Assignment-3
-Assignment 3 Solution Repository
+# CSN-463 Web Technologies Assignment-2 Submission
+Name: Ayush Chaudhary. SID: 19104008.
